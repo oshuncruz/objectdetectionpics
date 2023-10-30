@@ -38,7 +38,7 @@ Before running the script, there are a few settings you should configure:
 
 ## Notes
 
-- This project is based on the DeepFashion2 dataset, which is a comprehensive fashion dataset. You can find more information about the dataset [here](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/DeepFashion2.html).
+- This project is based on the DeepFashion2 dataset, which is a comprehensive fashion dataset. You can find more information about the dataset [here](https://github.com/switchablenorms/DeepFashion2).
 - You should have the Remote Camera Control software installed and set up correctly.
 - Ensure your camera is connected and properly configured.
 - The script assumes that your camera is accessible via the `cv2.VideoCapture` interface. You may need to adjust the camera index (currently set to 1) if you have multiple cameras.
