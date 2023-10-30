@@ -43,3 +43,4 @@ Before running the script, there are a few settings you should configure:
 - The script assumes that your camera is accessible via the `cv2.VideoCapture` interface. You may need to adjust the camera index (currently set to 1) if you have multiple cameras.
 
 Please note that this script was designed for a specific use case and may require further customization to fit your specific needs.
+
